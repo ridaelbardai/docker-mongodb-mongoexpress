@@ -1,0 +1,7 @@
+db.listCollections()
+db.listCollections();
+show collections
+show dbs
+use admin
+show dbs
+show collections
